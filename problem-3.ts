@@ -7,9 +7,8 @@
         return result;
     }
 
-    countWordOccurrences("TypeScript is great. I love TypeScript !", "typescript")
-
-    // console.log(countWordOccurrences("TypeScript is great. I love TypeScript !", "typescript"))
+    countWordOccurrences("I love typescript", "typescript");
+    console.log(countWordOccurrences("I love typescript", "typescript"))
 
     //
 }
